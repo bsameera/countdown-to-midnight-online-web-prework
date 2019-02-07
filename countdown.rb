@@ -7,5 +7,9 @@ def countdown(number)
     puts "#{counter} SECOND(S)!"
     counter -= 1
   end
-  return phrase
+  phrase
+end
+
+def countdown_with_sleep(num)
+  
 end
