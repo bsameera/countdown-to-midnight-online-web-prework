@@ -7,5 +7,5 @@ def countdown(number)
     puts "#{counter} SECOND(S)!"
     counter -= 1
   end
-  phrase
+  return phrase
 end
